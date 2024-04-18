@@ -1,5 +1,5 @@
 # 💫 About Me:
-  * 🌱 I’m currently Reinforcement Learning 😎.<br><br>  - 🥅 2024 Goals: Explore the more and more research of LLM, NLP, Time Series Analysis, etc.<br><br>  - ⚡ Fun fact: One of my main goals is to share the knowledge of these disciplines with all those who, without fear and with a willingness to learn, dare to try; to make mistakes; to correct and succeed in the study of what we encompass as Artificial Intelligence..
+  * 🌱 I’m currently Reinforcement Learning 😎.<br><br>  - 🥅 2024 Goals: Explore the more and more research of LLM, NLP, Time Series Analysis, One-bit LLM etc.<br><br>  - ⚡ Fun fact: One of my main goals is to share the knowledge of these disciplines with all those who, without fear and with a willingness to learn, dare to try; to make mistakes; to correct and succeed in the study of what we encompass as Artificial Intelligence..
 
 
 ## 🌐 Socials:
